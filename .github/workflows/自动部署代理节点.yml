@@ -15,7 +15,7 @@ on:
       region:
         description: '选择部署区域'
         required: true
-        default: 'US(free)'
+        default: 'Azure-SG(Singapore)'
         type: choice
         options:
           #  免费区域
