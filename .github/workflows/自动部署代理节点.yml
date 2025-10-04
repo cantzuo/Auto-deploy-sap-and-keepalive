@@ -56,7 +56,7 @@ on:
       app_name:
         description: '应用名称（可选，留空则自动生成）'
         required: false
-        default: 'sap'
+        default: 'sapcalie'
 
 env:
   MEMORY: 256M
